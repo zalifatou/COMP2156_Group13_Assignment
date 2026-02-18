@@ -27,3 +27,10 @@ Agile Model: An incremental and iterative approach that allows ongoing feedback 
 Spiral Model: A combination of iterative developments which includes risk analysis.
 
 The most widely used model is Agile in modern software development due to its flexibility and fast delivery.
+
+Common SDLC Deliverables include:
+Requirements Document(SRS): Describes what the system must do.
+Design Documents: Includes architechure diagrams and design specification.
+Test Plan and Cases: Defines what will be testes and the expected results.
+Deployment Plan: Steps to release the software into production.
+Maintenance Logs: Records improvements, updates and bug fixes after the release.
