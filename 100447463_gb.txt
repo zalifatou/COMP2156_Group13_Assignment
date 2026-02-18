@@ -1,0 +1,17 @@
+Student ID: 100447463
+
+George Brown College
+Campus: Casa Loma 
+Program: T-191 Computer Systems Technician
+
+George Brown College is located in Toronto, Ontario. It was established in 1967
+and was named after George Brown who was one of the Fathers of Confederation. The college
+offers over 160 career-focused programs, including diplomas, degrees and certificates.
+There are 3 main campuses which include:
+Casa Loma Campus (Technology and Skilled Trades)
+St. James Campus (Business and Community Services)
+Waterfront Campus (Health Sciences)
+
+I currently attend the Casa Loma Campus which focuses on technology, construction,
+engineering and computer related programs. It provides modern labs, computer classrooms
+and collaborative learning spaces.
