@@ -32,3 +32,11 @@ DevOps Lifecycle:
 6.Deploy
 7.Operate
 8.Monitor
+
+Advantages of Devops include:
+Faster software delivery
+Improved collaborations between teams
+Reduced deployment failures
+Faster recovery time after incidents
+Ongoing imporvement through system feedback
+Higher customer satisfaction
