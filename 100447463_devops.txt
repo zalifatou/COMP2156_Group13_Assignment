@@ -22,3 +22,13 @@ Infrastructure as Code: Terraform
 Monitoring Tooks: Prometheus, Grafana
 
 DevOps helps deliver software faster and more efficiently while also maintaining system stability.
+
+DevOps Lifecycle:
+1. Plan
+2.Develop
+3.Build
+4.Test
+5.Release
+6.Deploy
+7.Operate
+8.Monitor
