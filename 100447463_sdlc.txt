@@ -20,3 +20,10 @@ Inportance of SDLC:
 -To improve software quality
 -To help manage time and cost effectively
 -To encourage proper documentation
+
+Some common SDLC models include:
+Waterfall Model: A sequential and linear approach in which each phase must be completed before moving on.
+Agile Model: An incremental and iterative approach that allows ongoing feedback and imporvement.
+Spiral Model: A combination of iterative developments which includes risk analysis.
+
+The most widely used model is Agile in modern software development due to its flexibility and fast delivery.
