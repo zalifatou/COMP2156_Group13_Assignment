@@ -40,3 +40,6 @@ Reduced deployment failures
 Faster recovery time after incidents
 Ongoing imporvement through system feedback
 Higher customer satisfaction
+
+DevOps plays a critical role in modern software development by improving collaboration, automation and delivery 
+speed. The practices learned in COMP2156 help build strong foundations for real world DevOps environments.
