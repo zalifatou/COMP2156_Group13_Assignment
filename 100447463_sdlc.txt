@@ -1,0 +1,22 @@
+Software Development Life Cycle (SDLC)
+
+SDLC stands for Software Development Life Cycle.
+It is a structured process used by software development teams to develop, design, test and deploy high 
+quality software systems.
+
+There are 7 phases of SDLC and they are as follows.
+1. Planning: Project goals are defined, requirements are gathered and studies surrounding feasibility 
+are conducted.
+2. Analysis: Detailed system requirements are documented and analyzed.
+3. Design: System building and design specifications are created.
+4. Implementation: Developers write actual code based on the deisgn specifications.
+5. Testing: The system is tested to locate and repair bugs and errors.
+6. Deployment: Software is released to the users or to production.
+7. Maintenance: Continuous updates, improvements and bug fixes are made after deployment.
+
+Inportance of SDLC: 
+-To ensure structured development process
+-To reduce project risks
+-To improve software quality
+-To help manage time and cost effectively
+-To encourage proper documentation
