@@ -1,8 +1,2 @@
-DevOps culture brings the cohesion of autonomous teams to fast
-paced, high-demanding environments.
-It has a set of processes that when applied correctly can:
-1. Drastically reduce IT overhead
-2. Remove manual tasks both of a mundane or complex nature
-3. Enforce best security practices
-4. Expedite product delivery
-5. Improve communication and collaboration across teams
+we have devops lecture class on monday at 2 pm and the the lab class still 
+on line on  wednesday at 6pm with proffessor Pritesh Patel.

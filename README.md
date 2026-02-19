@@ -1,5 +1,6 @@
-# COMP2156_Group13_Assignment
+# COMP 2156 - DevOps for System Administration
+## Group 13 Assignment
 
-## Members | Branch Names
-- Oliviabatya Alemu Madebo | 101500375-Oliviabatya
-
+### Group Members - Student ID:
+* **Uche Obikwelu** - 101578124
+* **Oliviabatya Alemu Madebo** - 101500375
