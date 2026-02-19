@@ -1,0 +1,1 @@
+DevOps automates building, testing, and deploying code. Teams can release updates faster instead of waiting weeks or months.
