@@ -1,5 +1,6 @@
 # COMP 2156 - DevOps for System Administration
 ## Group 13 Assignment
 
-### Group Members:
-* **Uche Obikwelu** - ID: 101578124
+### Group Members - Student ID:
+* **Uche Obikwelu** - 101578124
+* **Oliviabatya Alemu Madebo** - 101500375
