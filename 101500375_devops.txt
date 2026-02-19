@@ -1,0 +1,2 @@
+DevOps course teaches students how DevOps improve system and network administration by increasing efficiency, automation, and collaboration.
+The course introduces tools such as Git for version control, GitHub for collaboration, and other tools. These tools help automate deployment and improve reliability.
