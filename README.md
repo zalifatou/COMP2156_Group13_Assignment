@@ -7,3 +7,4 @@
 * **Zalifatou Ouedraogo** - 101562645
 * **Muna Dayr - 100447463
 * **Mia Evans-Ellis - 101465506
+* **Amanda Pigeau** - 101067155
