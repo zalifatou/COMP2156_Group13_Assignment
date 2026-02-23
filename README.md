@@ -1,7 +1,5 @@
 
-# COMP2156_Group13_Assignment
-.zalifatou ouedraogo - 101562645
- b30d1f0f40fc15679fc7e4c5bed23074c0591960
+
 # COMP 2156 - DevOps for System Administration
 ## Group 13 Assignment
 
