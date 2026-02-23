@@ -1,2 +1,5 @@
-Content: SDLC Information - details about importance of learning 
-DevOps engineer in software development cycle
+Content: SDLC Information
+
+Specifics:
+Details about importance of learning the
+DevOps engineer in software development cycle.
