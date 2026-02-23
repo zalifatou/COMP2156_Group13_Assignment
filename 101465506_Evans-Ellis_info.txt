@@ -1,2 +1,0 @@
-Student ID: 101465506
-Program: DevOps/Git Hud
