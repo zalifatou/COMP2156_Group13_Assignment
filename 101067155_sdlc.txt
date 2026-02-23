@@ -1,0 +1,9 @@
+Content: SDLC Information
+
+Specifics about this file's purpose:
+Details about importance of learning the
+DevOps engineer in software development cycle.
+
+Topics to look into:
+Github Commands
+MS Azure
