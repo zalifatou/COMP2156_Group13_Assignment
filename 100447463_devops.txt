@@ -1,0 +1,45 @@
+COMP2156 DevOps Course
+
+DevOps is a combination of Development (Dev) and Operations (Ops)
+It is a set of practices that improves collaboration between software developers and IT operation teams.
+
+The goals of DevOps are to automate softwars delivery, improve deployment speed, increase stability,
+reduce system failures and enhance collaboration.
+
+DevOps engineer are responsible for managing CI/CD pipelines, automating builds and deployments,
+monitoring systems performances, maintaining cloud infrastructure and improving  the reliability of 
+the system.
+
+In COMP2156, we learn how to use Git and GitHub for version control, work with branches, create pull requests
+and manage collaborative development. We also learn about CI/CD pipelines and automation practices that are
+essential for modern software development.
+
+DevOps uses common tools such as:
+Continuous Integration/Deployment: GitHub Actions, Jenkins
+Containerization: Docker
+Cloud Platforms: AWS, Microsoft Azure
+Infrastructure as Code: Terraform
+Monitoring Tooks: Prometheus, Grafana
+
+DevOps helps deliver software faster and more efficiently while also maintaining system stability.
+
+DevOps Lifecycle:
+1. Plan
+2.Develop
+3.Build
+4.Test
+5.Release
+6.Deploy
+7.Operate
+8.Monitor
+
+Advantages of Devops include:
+Faster software delivery
+Improved collaborations between teams
+Reduced deployment failures
+Faster recovery time after incidents
+Ongoing imporvement through system feedback
+Higher customer satisfaction
+
+DevOps plays a critical role in modern software development by improving collaboration, automation and delivery 
+speed. The practices learned in COMP2156 help build strong foundations for real world DevOps environments.
